@@ -1,4 +1,5 @@
 ![Anchor Header Image](.github/anchor_gh_bg.png)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fryanstubbs%2Fanchor-cms.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fryanstubbs%2Fanchor-cms?ref=badge_shield)
 
 # Anchor CMS
 
@@ -42,3 +43,7 @@ If you'd like to help out and contribute to this project, please take a look at 
 If you would like to add submit a feature request then please go to our [Feathub page](http://feathub.com/anchorcms/anchor-cms).
 
 [![Feature Requests](http://feathub.com/anchorcms/anchor-cms?format=svg)](http://feathub.com/anchorcms/anchor-cms)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fryanstubbs%2Fanchor-cms.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fryanstubbs%2Fanchor-cms?ref=badge_large)
